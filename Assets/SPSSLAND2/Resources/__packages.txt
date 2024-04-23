@@ -1,0 +1,309 @@
+{ "all_packages":
+[
+	{
+		"package_id": "pkg0",
+        "package_name": "بسته آغازین یادگیری SPSS",
+        "package_price": "16000",
+        "package_icon": "spss1",
+        "package_discount": "40",
+        "package_global_discount_accepted": "true",
+        "package_is_bought": "false",
+        "package_previews":
+		[
+			{
+				"preview_name": "آشنایی مقدماتی با نرم افزار SPSS",
+				"preview_youtube_url": "",
+				"preview_aparat_url": "https://www.aparat.com/v/uOJ1M"
+			},
+			{
+				"preview_name": "پرسشنامه و نحوه تعریف متغییر ها در نرم افزار SPSS",
+				"preview_youtube_url": "",
+				"preview_aparat_url": "https://www.aparat.com/v/PvKor"
+			},
+			{
+				"preview_name": "تحلیل توصیفی توسط نرم افزار SPSS",
+				"preview_youtube_url": "",
+				"preview_aparat_url": "https://www.aparat.com/v/ZGkdE"
+			},
+			{
+				"preview_name": "نحوه ایجاد نمودار در نرم افزار SPSS",
+				"preview_youtube_url": "",
+				"preview_aparat_url": "https://www.aparat.com/v/c1lVW"
+			}
+		],
+        "package_downloads": 
+		[
+			{
+				"download_name": "آشنایی مقدماتی با نرم افزار SPSS",
+				"download_url": "https://spssland.ir/dl/app/SPSS/1-intro.mp4"
+			},
+			{
+				"download_name": "پرسشنامه و نحوه تعریف متغییر ها در نرم افزار SPSS",
+				"download_url": "https://spssland.ir/dl/app/SPSS/2-Variables.mp4"
+			},
+			{
+				"download_name": "تحلیل توصیفی توسط نرم افزار SPSS",
+				"download_url": "https://spssland.ir/dl/app/SPSS/3-Descriptives.mp4"
+			},
+			{
+				"download_name": "نحوه ایجاد نمودار در نرم افزار SPSS",
+				"download_url": "https://spssland.ir/dl/app/SPSS/4-Chart720.mp4"
+			}
+		]
+		
+	},
+	{
+		"package_id": "pkg1",
+        "package_name": "بسته تحلیل آماری نرم افزار SPSS",
+        "package_price": "20000",
+        "package_icon": "spss_logo",
+        "package_discount": "20",
+        "package_global_discount_accepted": "true",
+        "package_is_bought": "false",
+        "package_previews":
+		[
+			{
+				"preview_name": "استفاده از جداول متقاطع و آزمون کای دو )Chi-Square( در نرم افزار SPSS",
+				"preview_youtube_url": "",
+				"preview_aparat_url": "https://www.aparat.com/v/hplgD"
+			},
+			{
+				"preview_name": "محاسبه ضریب همبستگی پیرسون )Pearson( در نرم افزار SPSS",
+				"preview_youtube_url": "",
+				"preview_aparat_url": "https://www.aparat.com/v/g8YMi"
+			},
+			{
+				"preview_name": "انجام دادن آزمون تی استیودنت )t-student( درنرم افزار SPSS",
+				"preview_youtube_url": "",
+				"preview_aparat_url": "https://www.aparat.com/v/kaZLf"
+			},
+			{
+				"preview_name": "آموزش رگرسیون خطی در نرم افزار SPSS",
+				"preview_youtube_url": "",
+				"preview_aparat_url": "https://www.aparat.com/v/LA5xe"
+			}
+		],
+        "package_downloads": 
+		[
+			{
+				"download_name": "استفاده از جداول متقاطع و آزمون کای دو )Chi-Square( در نرم افزار SPSS",
+				"download_url": "https://spssland.ir/dl/app/SPSS/5-ChiSquer.mp4"
+			},
+			{
+				"download_name": "محاسبه ضریب همبستگی پیرسون )Pearson( در نرم افزار SPSS",
+				"download_url": "https://spssland.ir/dl/app/SPSS/6-Correlate.mp4"
+			},
+			{
+				"download_name": "انجام دادن آزمون تی استیودنت )t-student( درنرم افزار SPSS",
+				"download_url": "https://spssland.ir/dl/app/SPSS/7-t.mp4"
+			},
+			{
+				"download_name": "آموزش رگرسیون خطی در نرم افزار SPSS",
+				"download_url": "https://spssland.ir/dl/app/SPSS/8-regression.mp4"
+			}
+		]
+		
+	},
+	{
+		"package_id": "pkg2",
+        "package_name": "بسته مقدمات پایان نامه نویسی",
+        "package_price": "16000",
+        "package_icon": "google_scholar",
+        "package_discount": "100",
+        "package_global_discount_accepted": "true",
+        "package_is_bought": "false",
+        "package_previews":
+		[
+			{
+				"preview_name": "بررسی اجزاء مختلف پایان نامه شامل",
+				"preview_youtube_url": "",
+				"preview_aparat_url": "https://www.aparat.com/v/V4Or8"
+			},
+			{
+				"preview_name": "جستجو گر منابع علمی گوگل )Google Scholar(",
+				"preview_youtube_url": "",
+				"preview_aparat_url": "https://www.aparat.com/v/tyr8J"
+			}
+		],
+        "package_downloads": 
+		[
+			{
+				"download_name": "بررسی اجزاء مختلف پایان نامه شامل",
+				"download_url": "https://spssland.ir/dl/app/google/1_rebase.mp4"
+			},
+			{
+				"download_name": "جستجو گر منابع علمی گوگل )Google Scholar(",
+				"download_url": "https://spssland.ir/dl/app/google/2_google.mp4"
+			}
+		]
+		
+	},
+	{
+		"package_id": "pkg3",
+        "package_name": "بسته آموزشی استفاده از نرم افزار ورد",
+        "package_price": "20000",
+        "package_icon": "word",
+        "package_discount": "60",
+        "package_global_discount_accepted": "true",
+        "package_is_bought": "false",
+        "package_previews":
+		[
+			{
+				"preview_name": "فرمت بندی متون در نرم افزار ورد )MS Word(",
+				"preview_youtube_url": "",
+				"preview_aparat_url": "https://www.aparat.com/v/qg48L"
+			},
+			{
+				"preview_name": "افزودن جدول، نمودار و تصویر هوشمند )Smart Art(",
+				"preview_youtube_url": "",
+				"preview_aparat_url": "https://www.aparat.com/v/PruXb"
+			},
+			{
+				"preview_name": "نگارش فرمول )Equation( های حرفه ای در نرم افزار ورد",
+				"preview_youtube_url": "",
+				"preview_aparat_url": "https://www.aparat.com/v/I3b1F"
+			},
+			{
+				"preview_name": "صفحه بندی و ایجاد بخش )Section( های جدید در نرم افزار ورد",
+				"preview_youtube_url": "",
+				"preview_aparat_url": "https://www.aparat.com/v/PSFky"
+			},
+			{
+				"preview_name": "ارجاع دادن به سایر کتاب ها و مقاله ها ، پانویس ها و تهیه فهرست مطالب به صورت خودکار",
+				"preview_youtube_url": "",
+				"preview_aparat_url": "https://www.aparat.com/v/JNtSd"
+			}
+		],
+        "package_downloads": 
+		[
+			{
+				"download_name": "فرمت بندی متون در نرم افزار ورد )MS Word(",
+				"download_url": "https://spssland.ir/dl/app/msword/1_formatting.mp4"
+			},
+			{
+				"download_name": "افزودن جدول، نمودار و تصویر هوشمند )Smart Art(",
+				"download_url": "https://spssland.ir/dl/app/msword/2_smart.mp4"
+			},
+			{
+				"download_name": "نگارش فرمول )Equation( های حرفه ای در نرم افزار ورد",
+				"download_url": "https://spssland.ir/dl/app/msword/3_eq.mp4"
+			},
+			{
+				"download_name": "صفحه بندی و ایجاد بخش )Section( های جدید در نرم افزار ورد",
+				"download_url": "https://spssland.ir/dl/app/msword/4_lay.mp4"
+			},
+			{
+				"download_name": "ارجاع دادن به سایر کتاب ها و مقاله ها ، پانویس ها و تهیه فهرست مطالب به صورت خودکار",
+				"download_url": "https://spssland.ir/dl/app/msword/5_ref.mp4"
+			}
+		]
+		
+	},
+	{
+		"package_id": "pkg4",
+        "package_name": "کارگاه عملی استفاده از نرم افزار SPSS",
+        "package_price": "30000",
+        "package_icon": "workshop",
+        "package_discount": "0",
+        "package_global_discount_accepted": "true",
+        "package_is_bought": "false",
+        "package_previews":
+		[
+			{
+				"preview_name": "مقدمه و توضیحات کارگاه آموزشی ",
+				"preview_youtube_url": "",
+				"preview_aparat_url": "https://www.aparat.com/v/6hFZi"
+			},
+			{
+				"preview_name": "تعریف متغییر های جمعیت شناختی در نرم افزار SPSS ",
+				"preview_youtube_url": "",
+				"preview_aparat_url": "https://www.aparat.com/v/bHmDE"
+			},
+			{
+				"preview_name": "تعریف سوالات پرسشنامه در نرم افزار SPSS ",
+				"preview_youtube_url": "",
+				"preview_aparat_url": "https://www.aparat.com/v/i7EB8"
+			},
+			{
+				"preview_name": "وارد کردن اطلاعات پرسشنامه و خلاصه سازی آن ",
+				"preview_youtube_url": "",
+				"preview_aparat_url": ""
+			},
+			{
+				"preview_name": "آمار توصیفی و رسم نمودار در نرم افزار SPSS ",
+				"preview_youtube_url": "",
+				"preview_aparat_url": ""
+			}
+			,
+			{
+				"preview_name": "تبدیل داده های عددی به اسمی و رسم نمودار ",
+				"preview_youtube_url": "",
+				"preview_aparat_url": ""
+			}
+			,
+			{
+				"preview_name": "تحلیل آماری داده های پرسشنامه ",
+				"preview_youtube_url": "",
+				"preview_aparat_url": ""
+			}
+			,
+			{
+				"preview_name": "آزمون فرضیات تحقیق توسط جداول استخراج شده ",
+				"preview_youtube_url": "",
+				"preview_aparat_url": ""
+			}
+			,
+			{
+				"preview_name": "اعمال شیوه نامه نگارش ",
+				"preview_youtube_url": "",
+				"preview_aparat_url": ""
+			}
+		],
+        "package_downloads": 
+		[
+			{
+				"download_name": "مقدمه و توضیحات کارگاه آموزشی ",
+				"download_url": "https://spssland.ir/dl/app/workshop98/1-intro.mp4"
+			},
+			{
+				"download_name": "تعریف متغییر های جمعیت شناختی در نرم افزار SPSS ",
+				"download_url": "https://spssland.ir/dl/app/workshop98/2-Questionare-1.mp4"
+			},
+			{
+				"download_name": "تعریف سوالات پرسشنامه در نرم افزار SPSS ",
+				"download_url": "https://spssland.ir/dl/app/workshop98/3-Questionare-2.mp4"
+			},
+			{
+				"download_name": "وارد کردن اطلاعات پرسشنامه و خلاصه سازی آن ",
+				"download_url": "https://spssland.ir/dl/app/workshop98/4-input.mp4"
+			},
+			{
+				"download_name": "آمار توصیفی و رسم نمودار در نرم افزار SPSS ",
+				"download_url": "https://spssland.ir/dl/app/workshop98/5-descr.mp4"
+			}
+			,
+			{
+				"download_name": "تبدیل داده های عددی به اسمی و رسم نمودار ",
+				"download_url": "https://spssland.ir/dl/app/workshop98/6-scale2nominal.mp4"
+			}
+			,
+			{
+				"download_name": "تحلیل آماری داده های پرسشنامه ",
+				"download_url": "https://spssland.ir/dl/app/workshop98/7-analyze.mp4"
+			}
+			,
+			{
+				"download_name": "آزمون فرضیات تحقیق توسط جداول استخراج شده ",
+				"download_url": "https://spssland.ir/dl/app/workshop98/8-hypo.mp4"
+			}
+			,
+			{
+				"download_name": "اعمال شیوه نامه نگارش ",
+				"download_url": "https://spssland.ir/dl/app/workshop98/9-style.mp4"
+			}
+		]
+		
+	}
+	
+]
+}

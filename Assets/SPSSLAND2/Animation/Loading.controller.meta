@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 2bb3b24842def5d41ac664b03817fadd
+timeCreated: 1563302432
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: B Nazanin
+  fontNames:
+  - B Nazanin
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7434253c5be917044a4d9766ad129b30, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
